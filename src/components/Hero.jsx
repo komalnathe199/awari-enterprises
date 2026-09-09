@@ -91,7 +91,7 @@ const Hero = () => {
                 </Button>
               </div>
 
-              <div className="d-flex flex-wrap gap-3" style={{ fontSize: '0.9rem', opacity: 0.9 }}>
+              <div className="d-flex flex-wrap gap-3" style={{ color: 'var(--white)', fontSize: '0.9rem', opacity: 0.9 }}>
                 <span className="d-flex align-items-center gap-1">✓ Best Rates</span>
                 <span className="d-flex align-items-center gap-1">✓ On-Time Pickup</span>
                 <span className="d-flex align-items-center gap-1">✓ Safe & Hygienic</span>
