@@ -194,9 +194,3 @@ h1, h2, h3, h4, h5, h6 {
     right: 60px;
   }
 }
-
-@media (max-width: 576px) {
-  .whatsapp-widget {
-    right: 60px;
-  }
-}
